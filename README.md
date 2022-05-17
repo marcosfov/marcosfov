@@ -1,8 +1,8 @@
 # Oii! Marcos Valeriano aqui 🤘
 
-😎 -Atualmente trabalho como desenvolvedor Academy de front end
+😎 -Atualmente trabalho como Desenvolvedor Front End - Academy
 
-🧐 -Estudando Javascript e VueJs
+🧐 -Estudando Javascript e ReactJs
 
 👨‍💻 -Sou formado em Engenharia Florestal e posteriormente fiz transição de carreira para área de programação 
 
