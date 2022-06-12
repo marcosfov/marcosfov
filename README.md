@@ -1,6 +1,6 @@
 # Oii! Marcos Valeriano aqui 🤘
 
-😎 -Atualmente trabalho como Desenvolvedor Front End - Academy
+😎 -Atualmente trabalho como Desenvolvedor Jr Front End 
 
 🧐 -Estudando Javascript e ReactJs
 
