@@ -6,7 +6,7 @@
 
 👨‍💻 -Sou formado em Engenharia Florestal e posteriormente fiz transição de carreira para área de programação 
 
-🤲 -Aprendendor e melhorando continuamente!
+🤲 -Aprendendo e melhorando continuamente!
 <br>
 ## 🛠 &nbsp;Tech Stack
 
