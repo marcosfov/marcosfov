@@ -1,15 +1,17 @@
 # Oii! Marcos Valeriano aqui 🤘
 
-😎 -Atualmente trabalho como Desenvolvedor Jr Front End 
+😎 - Desenvolvedor Front End 
 
-🧐 -Estudando Javascript e ReactJs
+🧐 - Estudando Testes Unitários
 
-👨‍💻 -Sou formado em Engenharia Florestal e posteriormente fiz transição de carreira para área de programação 
+👨‍💻 -Sou formado em Engenharia Florestal e em novembro de 2021 fiz transição de carreira para área de programação 
 
 🤲 -Aprendendo e melhorando continuamente!
 <br>
 ## 🛠 &nbsp;Tech Stack
 
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)&nbsp;
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
